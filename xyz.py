@@ -36,6 +36,7 @@ for i in range(int(n)):
     code.append(p)
     q=input("spoj :")
     spo.append(q)
+    print("wait till the data is scrapped")
     codechef(p)
     spoj(q)
     total.append(coder[i] + spojr[i])
